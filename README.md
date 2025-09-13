@@ -15,6 +15,6 @@ My research interests primarily lie in **Natural Language Processing (NLP)**, wh
 ### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yutong-hu-natalie/" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/YOUR-GITHUB](https://github.com/YutongHu-Natalie" target="_blank">GitHub</a> •
+  <a href="https://github.com/YutongHu-Natalie" target="_blank">GitHub</a> •
   <a href="yutong.hu@emory.edu">Email</a>
 </p>
