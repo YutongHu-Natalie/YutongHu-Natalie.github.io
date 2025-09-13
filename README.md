@@ -1,7 +1,7 @@
 # Yutong (Natalie) Hu  
 
 <p align="center">
-  <img src="profile_photo.jpg" alt="Profile Photo" width="180" style="border-radius:50%">
+  <img src="IMG_0228.jpeg" alt="Profile Photo" width="180" style="border-radius:50%">
 </p>
 
 **Senior Undergraduate Student**  
