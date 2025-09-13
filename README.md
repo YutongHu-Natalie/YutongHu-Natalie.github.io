@@ -1,6 +1,20 @@
-# Yutong(Natalie) Hu
+# Yutong (Natalie) Hu  
 
-  Hi! I am currently a senior undergraduate student at Emory university. I major in **Computer Science** and minor in **Applied Math Statistics**. 
+<p align="center">
+  <img src="profile_photo.jpg" alt="Profile Photo" width="180" style="border-radius:50%">
+</p>
 
-  My current research interest mainly lies in **Natural Language Processing** where I participated in some projects in Emory NLP Lab. Besides, I am also involeved in **Computer Vision** projects in healthcare region. In the future, I would like to get engaged in more **Multimodal** related project
+**Senior Undergraduate Student**  
+Emory University  
+**Major:** Computer Science | **Minor:** Applied Mathematics & Statistics  
 
+My research interests primarily lie in **Natural Language Processing (NLP)**, where I have participated in several projects at the **Emory NLP Lab**. I also participated in **Computer Vision** projects in the healthcare domain. Looking ahead, I am eager to explore more **multimodal** research projects that integrate text, vision, and other modalities.
+
+---
+
+### Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yutong-hu-natalie/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/YOUR-GITHUB](https://github.com/YutongHu-Natalie" target="_blank">GitHub</a> •
+  <a href="yutong.hu@emory.edu">Email</a>
+</p>
