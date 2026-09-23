@@ -4,9 +4,7 @@
 </p>
 
 **MSCS Student**  
-Emory University
-
-**Major:** Computer Science | **Minor:** Applied Mathematics & Statistics  
+Emory University 
 
 I am a first-year M.S. student in Computer Science at Emory University, where I previously earned my B.S. in Computer Science with a minor in Applied Mathematics and Statistics.
 
