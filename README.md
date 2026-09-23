@@ -3,12 +3,16 @@
   <img src="IMG_0987.jpeg" alt="Profile Photo" width="180" style="border-radius:50%;">
 </p>
 
-**Senior Undergraduate Student**  
+**MSCS Student**  
 Emory University
 
 **Major:** Computer Science | **Minor:** Applied Mathematics & Statistics  
 
-My research interests primarily lie in **Natural Language Processing (NLP)**, where I have participated in several projects at the **Emory NLP Lab**. I also participated in **Computer Vision** projects in the healthcare domain. Looking ahead, I am eager to explore more **multimodal** research projects that integrate text, vision, and other modalities.
+I am a first-year M.S. student in Computer Science at Emory University, where I previously earned my B.S. in Computer Science with a minor in Applied Mathematics and Statistics.
+
+My interests lie in Artificial Intelligence, particularly Natural Language Processing and intelligent agents. As a researcher in the Emory NLP Lab under the mentorship of Dr. Jinho Choi, I have gained experience deploying and fine-tuning open-source large language models and applying them to multidisciplinary research problems. I am especially interested in building human-centered AI systems that can better understand and interact with people.
+
+I enjoy working in collaborative, interdisciplinary environments and value teamwork, communication, and continuous learning. I am also adaptable and eager to learn new technologies and skills when tackling new challenges.
 
 ---
 
