@@ -1,6 +1,6 @@
 # Yutong (Natalie) Hu  
 <p align="center">
-  <img src="profile_phto.jpeg" alt="Profile Photo" width="180" style="border-radius:50%;">
+  <img src="profile_photo.jpeg" alt="Profile Photo" width="180" style="border-radius:50%;">
 </p>
 
 **MSCS Student**  
