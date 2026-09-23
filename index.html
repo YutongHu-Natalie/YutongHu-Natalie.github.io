@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,6 +41,7 @@
             <nav>
                 <a href="#about">About</a>
                 <a href="#research">Research</a>
+                <a href="#projects">Projects</a>
                 <a href="#education">Education</a>
                 <a href="#contact">Contact</a>
             </nav>
@@ -206,31 +206,12 @@
                         <h3>Interests</h3>
 
                         <ul>
-
-                            <li>
-                                Artificial Intelligence
-                            </li>
-
-                            <li>
-                                Natural Language Processing
-                            </li>
-
-                            <li>
-                                Intelligent Agents
-                            </li>
-
-                            <li>
-                                Large Language Models
-                            </li>
-
-                            <li>
-                                Human-Centered AI
-                            </li>
-
-                            <li>
-                                Multidisciplinary Research
-                            </li>
-
+                            <li>Artificial Intelligence</li>
+                            <li>Natural Language Processing</li>
+                            <li>Intelligent Agents</li>
+                            <li>Large Language Models</li>
+                            <li>Human-Centered AI</li>
+                            <li>Multidisciplinary Research</li>
                         </ul>
 
                     </aside>
@@ -281,13 +262,9 @@
 
                     <article class="research-card">
 
-                        <div class="card-number">
-                            01
-                        </div>
+                        <div class="card-number">01</div>
 
-                        <h3>
-                            Natural Language Processing
-                        </h3>
+                        <h3>Natural Language Processing</h3>
 
                         <p>
                             Exploring language understanding and
@@ -301,13 +278,9 @@
 
                     <article class="research-card">
 
-                        <div class="card-number">
-                            02
-                        </div>
+                        <div class="card-number">02</div>
 
-                        <h3>
-                            Intelligent Agents
-                        </h3>
+                        <h3>Intelligent Agents</h3>
 
                         <p>
                             Interested in intelligent systems that can
@@ -320,13 +293,9 @@
 
                     <article class="research-card">
 
-                        <div class="card-number">
-                            03
-                        </div>
+                        <div class="card-number">03</div>
 
-                        <h3>
-                            Large Language Models
-                        </h3>
+                        <h3>Large Language Models</h3>
 
                         <p>
                             Experience deploying and fine-tuning open-source
@@ -339,13 +308,9 @@
 
                     <article class="research-card">
 
-                        <div class="card-number">
-                            04
-                        </div>
+                        <div class="card-number">04</div>
 
-                        <h3>
-                            Human-Centered AI
-                        </h3>
+                        <h3>Human-Centered AI</h3>
 
                         <p>
                             Interested in developing AI systems that better
@@ -363,16 +328,135 @@
 
 
         <!-- =========================
-             Education
+             Projects
              ========================= -->
 
-        <section id="education" class="section">
+        <section id="projects" class="section">
 
             <div class="section-container">
 
                 <div class="section-heading">
 
                     <span>03</span>
+
+                    <h2>Projects</h2>
+
+                </div>
+
+
+                <div class="project-grid">
+
+                    <article class="project-card">
+
+                        <p class="project-date">Sept 2025 – Apr 2026 · Honors Thesis</p>
+
+                        <h3>Multimodal Emotion Recognition in Dialogue</h3>
+
+                        <p>
+                            LoRA-tuned LLaMA models for emotion recognition on
+                            IEMOCAP, reaching 73.20% weighted F1 and beating the
+                            published baseline. Ablations show audio features add
+                            3.5–3.6 F1 points.
+                        </p>
+
+                        <ul class="project-tags">
+                            <li>LLaMA</li>
+                            <li>LoRA</li>
+                            <li>Multimodal</li>
+                        </ul>
+
+                        <a
+                            class="project-link"
+                            href="https://github.com/YutongHu-Natalie/BeyondText"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            View on GitHub ↗
+                        </a>
+
+                    </article>
+
+
+                    <article class="project-card">
+
+                        <p class="project-date">Sept 2024 – Dec 2024</p>
+
+                        <h3>Contradiction Detection in Presidential Debates</h3>
+
+                        <p>
+                            RAG system over 600+ political speeches in Qdrant,
+                            using GPT-4o and Claude models to flag contradictions
+                            between debate statements and past remarks
+                            (80%+ macro recall).
+                        </p>
+
+                        <ul class="project-tags">
+                            <li>RAG</li>
+                            <li>Qdrant</li>
+                            <li>LLMs</li>
+                        </ul>
+
+                        <a
+                            class="project-link"
+                            href="https://github.com/YutongHu-Natalie/DebateContraDetect"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            View on GitHub ↗
+                        </a>
+
+                    </article>
+
+
+                    <article class="project-card">
+
+                        <p class="project-date">Jan 2025 – Aug 2025</p>
+
+                        <h3>Graph-Based Retinal Vessel Analysis</h3>
+
+                        <p>
+                            Attention-guided encoder-decoder for retinal
+                            microvasculature segmentation on ROSE, plus
+                            self-supervised geometric tree learning for disease
+                            classification on DRAC.
+                        </p>
+
+                        <ul class="project-tags">
+                            <li>Segmentation</li>
+                            <li>Graph Learning</li>
+                            <li>PyTorch</li>
+                        </ul>
+
+                        <!-- TODO: replace # with the repo URL, or delete this link -->
+                        <a
+                            class="project-link"
+                            href="#"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            View on GitHub ↗
+                        </a>
+
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             Education
+             ========================= -->
+
+        <section id="education" class="section section-light">
+
+            <div class="section-container">
+
+                <div class="section-heading">
+
+                    <span>04</span>
 
                     <h2>Education</h2>
 
@@ -390,9 +474,7 @@
 
                         <div class="education-content">
 
-                            <h3>
-                                Emory University
-                            </h3>
+                            <h3>Emory University</h3>
 
                             <p class="degree">
                                 M.S. in Computer Science
@@ -418,9 +500,7 @@
 
                         <div class="education-content">
 
-                            <h3>
-                                Emory University
-                            </h3>
+                            <h3>Emory University</h3>
 
                             <p class="degree">
                                 B.S. in Computer Science
@@ -451,7 +531,7 @@
             <div class="contact-container">
 
                 <p class="eyebrow">
-                    04 · Contact
+                    05 · Contact
                 </p>
 
                 <h2>
@@ -523,4 +603,3 @@
 
 </body>
 </html>
-```
